@@ -194,6 +194,7 @@ header{
 .product-box{
     position: relative;
     transition: 0.3s;
+    cursor: pointer;
 
 }
 
